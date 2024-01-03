@@ -14,7 +14,6 @@ do feel free to mark the repo by starring it. below lies some useful links to, h
 
 feel free to post any, **but please check [issues](https://github.com/KnowsCount/contribution-heatmap/issues) before posting**.
 
-## 🤤 usage
 
 to install the library as a dependency to your project, run
 
